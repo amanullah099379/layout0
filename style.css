@@ -1,0 +1,12 @@
+/* h1{
+    background-color: darkgray;
+    color: aliceblue;
+    text-align: center;
+    text-decoration: double underline; 
+    text-transform: uppercase;
+    font-family: monospace;   
+} */
+ .abc{
+    display: flex;
+    justify-content: center;
+ }
